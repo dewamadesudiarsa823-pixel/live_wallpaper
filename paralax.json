@@ -41,6 +41,13 @@
       "wallpaper_name": "Wallpaper 2",
       "wallpaper_type": "GIF",
       "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa823-pixel/live_wallpaper/main/wallpaper.gif"
+    },
+    {
+      "id": 3,
+      "name_category": "Categories",
+      "wallpaper_name": "Wallpaper 3",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/frog2.mp4"
     }
   ]
 }
